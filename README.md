@@ -25,7 +25,11 @@
 **CIRCUIT DIAGRAM:**
 
 
-<img width="1285" height="130" alt="Screenshot 2025-10-16 142134" src="https://github.com/user-attachments/assets/e4cf4e54-deb0-4e18-88c3-d20b39eaaf05" />
+![WhatsApp Image 2025-10-16 at 15 40 22_03643556](https://github.com/user-attachments/assets/e38ebdb0-3419-4bb3-83ee-62f54e0dca88)
+![WhatsApp Image 2025-10-16 at 15 40 23_51baa2bb](https://github.com/user-attachments/assets/e9c33de5-97ef-4af3-9384-670a8cbf5777)
+![WhatsApp Image 2025-10-16 at 15 40 23_863d1726](https://github.com/user-attachments/assets/6688166f-cec3-4511-9b58-ae7c7e8b6419)
+![WhatsApp Image 2025-10-16 at 15 40 24_937dd90e](https://github.com/user-attachments/assets/8d254f64-47f5-44db-91a6-8de15a121d00)
+
 
 
 
